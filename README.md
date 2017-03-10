@@ -1,16 +1,7 @@
 #### task for me
 
-> 每日资源获取
+> 新接触名词
 
-|    标题    |          地址           |
-| :------: | :-------------------: |
-|  Medium  |  https://medium.com/  |
-| Hux Blog | https://huangxuan.me/ |
-|          |                       |
-|          |                       |
-|          |                       |
-|          |                       |
-|          |                       |
-|          |                       |
-|          |                       |
+var context = new (window.AudioContext || window.webkitAudioContext)();
 
+[css tricks](https://css-tricks.com/introduction-web-audio-api/?utm_source=frontendfocus&utm_medium=email)
